@@ -10,6 +10,6 @@
         }
     ],
     "require": {
-        "jenssegers/agent": "3.0.*@dev"
+        "jenssegers/agent": "2.6.*"
     }
 }
